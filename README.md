@@ -1,3 +1,2 @@
-#Deep Neural Networks
-
-Let's Learn and witness the journey of Deep Neural Network.
+# Deep Neural Networks
+Let's learn and witness the journey of Neuron to Massive Neural Networks!
